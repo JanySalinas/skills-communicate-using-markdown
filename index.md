@@ -2,11 +2,7 @@
 # this is harder than i thought but i am learning.
 # yeah yeah
 # this is fun tbh 
-
 # ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
-
 
 
 
